@@ -1,0 +1,15 @@
+/Users/rafaella/Work/AOC2023/Day2/bin/Debug/net7.0/Day2
+/Users/rafaella/Work/AOC2023/Day2/bin/Debug/net7.0/Day2.deps.json
+/Users/rafaella/Work/AOC2023/Day2/bin/Debug/net7.0/Day2.runtimeconfig.json
+/Users/rafaella/Work/AOC2023/Day2/bin/Debug/net7.0/Day2.dll
+/Users/rafaella/Work/AOC2023/Day2/bin/Debug/net7.0/Day2.pdb
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.csproj.AssemblyReference.cache
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.AssemblyInfoInputs.cache
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.AssemblyInfo.cs
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.csproj.CoreCompileInputs.cache
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.dll
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/refint/Day2.dll
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.pdb
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/Day2.genruntimeconfig.cache
+/Users/rafaella/Work/AOC2023/Day2/obj/Debug/net7.0/ref/Day2.dll
